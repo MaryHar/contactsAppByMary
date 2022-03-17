@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="btn_no">No</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
